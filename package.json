@@ -1,0 +1,23 @@
+{
+  "name": "ordered-object",
+  "version": "1.0.0",
+  "description": "Ordering for JS Objects",
+  "main": "OrderedObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMantere/OrderedObject.git"
+  },
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1",
+    "lodash": "^4.16.1"
+  },
+  "author": "Oskari Mantere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMantere/OrderedObject/issues"
+  },
+  "homepage": "https://github.com/OMantere/OrderedObject#readme"
+}
